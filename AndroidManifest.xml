@@ -5,7 +5,7 @@
           android:versionName="1.0">
     <uses-sdk android:minSdkVersion="12"/>
     <application android:label="@string/app_name">
-        <activity android:name="br.com.lellis.MyActivity"
+        <activity android:name="br.com.lellis.activity.MyActivity"
                   android:label="@string/app_name"
                   android:icon="@drawable/icon">
             <intent-filter>
@@ -14,7 +14,7 @@
             </intent-filter>
         </activity>
         <activity
-                android:name="br.com.lellis.ResultadoDisplay"
+                android:name="br.com.lellis.activity.ResultadoDisplay"
                 android:label="@string/title_resultado_display_message"
                 android:icon="@drawable/icon">
             <meta-data
