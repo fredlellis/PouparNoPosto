@@ -3,6 +3,7 @@ package br.com.lellis.calculo;
 import br.com.lellis.entity.Combustivel;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 /**
  * Created with IntelliJ IDEA.
@@ -13,7 +14,7 @@ import java.math.BigDecimal;
  */
 public class ComparaRentabilidadeCombustivel {
 
-    private ComparaRentabilidadeCombustivel() {
+    ComparaRentabilidadeCombustivel() {
         super();
     }
 
@@ -22,18 +23,22 @@ public class ComparaRentabilidadeCombustivel {
     }
 
     public String compararDoisCombustiveis(Combustivel primeiroCombustivel, Combustivel segundoCombustivel){
-        return calcularCombustivelMaisRentavel(primeiroCombustivel, segundoCombustivel) >= 0 ? primeiroCombustivel.toString() : segundoCombustivel.toString();
+        return calcularCombustivelMaisRentavel(primeiroCombustivel, segundoCombustivel) < 1 ? primeiroCombustivel.toString() : segundoCombustivel.toString();
     }
 
 
-    private BigDecimal percentagemDiferencaEntrePoderCalorifico(BigDecimal poderCalorificoCombustivel01, BigDecimal poderCalorificoCombustivel02){
-        BigDecimal percentagemDiferencaEntreCombustiveis = poderCalorificoCombustivel02.multiply(new BigDecimal(100)).divide(poderCalorificoCombustivel01);
+    BigDecimal percentagemDiferencaEntrePoderCalorifico(BigDecimal poderCalorificoCombustivel01, BigDecimal poderCalorificoCombustivel02){
+        BigDecimal percentagemDiferencaEntreCombustiveis = poderCalorificoCombustivel02.multiply(new BigDecimal(100)).divide(poderCalorificoCombustivel01, RoundingMode.HALF_UP).setScale(2, RoundingMode.HALF_UP);
         return percentagemDiferencaEntreCombustiveis;
     }
 
-    private int calcularCombustivelMaisRentavel(Combustivel combustivel01, Combustivel combustivel02){
+    int calcularCombustivelMaisRentavel(Combustivel combustivel01, Combustivel combustivel02){
         BigDecimal diferencaPoderCalorifico = percentagemDiferencaEntrePoderCalorifico(combustivel01.getPoderCalorificoSuperior(), combustivel02.getPoderCalorificoSuperior());
-        return combustivel01.getValor().multiply(diferencaPoderCalorifico).compareTo(combustivel02.getValor());
+        diferencaPoderCalorifico = diferencaPoderCalorifico.divide(new BigDecimal(100));
+
+        BigDecimal valorParaComparar = combustivel01.getValor().multiply(diferencaPoderCalorifico).setScale(2, RoundingMode.HALF_UP);
+        int comparacao = valorParaComparar.compareTo(combustivel02.getValor().setScale(2, RoundingMode.HALF_UP));
+        return comparacao;
     }
 
 }
