@@ -12,7 +12,7 @@ import java.math.BigDecimal;
 public class Etanol extends BioCombustivel {
 
 
-    private static final BigDecimal  PODER_COLORIFICO_SUPERIOR_KCAL_LITRO = new BigDecimal(5.380);
+    private static final BigDecimal AUTONOMIA_COMPARADO_COM_GASOLINA = new BigDecimal(70);
 
     public Etanol(BigDecimal valorEtanol) {
         super();
@@ -20,8 +20,8 @@ public class Etanol extends BioCombustivel {
     }
 
     @Override
-    public BigDecimal getPoderCalorificoSuperior() {
-        return PODER_COLORIFICO_SUPERIOR_KCAL_LITRO;
+    public BigDecimal getAutonomiaComparadoComGasoliona() {
+        return AUTONOMIA_COMPARADO_COM_GASOLINA;
     }
 
     @Override

@@ -17,42 +17,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ed9adba-4668-48db-9c0a-fb70433aaa24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/activity/MyActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/activity/ResultadoDisplay.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/BioCombustivel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Combustivel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/CombustivelFossil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Etanol.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Gasolina.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/tests/br/com/lellis/calculo/CalculoTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/tests/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/tests/com/example/MyActivityTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/tests/com/example/tests/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/tests/tests.apk.res" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/tests/tests.apk.unaligned" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/tests/tests.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/ant.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/gen/com/example/tests/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/proguard-project.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/src/br/com/lellis/activity/MyActivityTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/tests.iml" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\src\test\ComparaRentabilidadeCombustivelTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk.res" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk.res" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk.unaligned" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk.unaligned" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/classes.dex" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br.com.lellis.PouparNoPosto.iml" afterPath="$PROJECT_DIR$/br.com.lellis.PouparNoPosto.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java" afterPath="$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -131,57 +101,7 @@
     <favorites_list name="untitled" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Combustivel.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="11" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComparaRentabilidadeCombustivel.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="90" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculoTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="60" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.58908045">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gasolina.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="72" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -198,17 +118,17 @@
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/entity/BioCombustivel.java" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/entity/CombustivelFossil.java" />
-        <option value="$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/calculo/CalculadoraRentabilidadeCombustivel.java" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java" />
-        <option value="$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java" />
-        <option value="$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java" />
         <option value="$PROJECT_DIR$/src/test/ComparaRentabilidadeCombustivelTest.java" />
         <option value="$PROJECT_DIR$/test/br/com/lellis/ComparaRentabilidadeCombustivelTest.java" />
         <option value="$PROJECT_DIR$/tests/src/br/com/lellis/entity/CombustivelFossil.java" />
         <option value="$PROJECT_DIR$/tests/br/com/lellis/ComparaRentabilidadeCombustivelTest.java" />
         <option value="$PROJECT_DIR$/untitled/src/br/com/lellis/activity/MyActivityTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java" />
+        <option value="$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java" />
+        <option value="$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java" />
         <option value="$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java" />
       </list>
     </option>
@@ -308,10 +228,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -320,7 +236,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="calculo" />
+              <option name="myItemId" value="entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,15 +250,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lellis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calculo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -419,7 +335,7 @@
       <recent name="br.com.lellis.activity" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Application.PouparNoPosto">
+  <component name="RunManager" selected="Android Tests.CalculoTest">
     <configuration default="false" name="ComparaRentabilidadeCombustivelTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true">
       <module name="br.com.lellis.PouparNoPosto" />
       <option name="TESTING_TYPE" value="2" />
@@ -720,7 +636,11 @@
       <created>1358972306340</created>
       <updated>1358972306340</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Versao 0.2 Beta (Com testes unitarios)">
+      <created>1359033293323</created>
+      <updated>1359033293323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -746,7 +666,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954337" sideWeight="0.6701389" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2492378" sideWeight="0.6701389" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2492378" sideWeight="0.6059028" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3940972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -792,7 +712,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versao 0.2 Beta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versao 0.2 Beta (Com testes unitarios)" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -807,6 +727,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="fefefef" />
     <MESSAGE value="Versao 0.2 Beta" />
+    <MESSAGE value="Versao 0.2 Beta (Com testes unitarios)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -874,16 +795,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="11" selection-start="370" selection-end="370" vertical-scroll-proportion="-0.10185185">
+        <state line="45" column="72" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.34072024">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/BioCombustivel.java">
+    <entry file="file://$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="50" selection-start="232" selection-end="232" vertical-scroll-proportion="0.4722222">
+        <state line="27" column="57" selection-start="932" selection-end="932" vertical-scroll-proportion="0.75308645">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="997" selection-end="997" vertical-scroll-proportion="1.2057878">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="89" selection-start="352" selection-end="352" vertical-scroll-proportion="0.49382716">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="24" selection-start="649" selection-end="649" vertical-scroll-proportion="0.8055556">
           <folding />
         </state>
       </provider>
@@ -895,42 +841,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/BioCombustivel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="50" selection-start="232" selection-end="232" vertical-scroll-proportion="0.4722222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="11" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+        <state line="15" column="64" selection-start="344" selection-end="344" vertical-scroll-proportion="0.47530866">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="72" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="90" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="60" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.58908045">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

@@ -11,11 +11,11 @@ import java.math.BigDecimal;
  */
 public class Gasolina extends CombustivelFossil {
 
-    private static final BigDecimal  PODER_COLORIFICO_SUPERIOR_KCAL_LITRO = new BigDecimal(8.325);
+    private static final BigDecimal AUTONOMIA_COMPARADO_COM_GASOLINA = new BigDecimal(100);
 
     @Override
-    public BigDecimal getPoderCalorificoSuperior() {
-        return PODER_COLORIFICO_SUPERIOR_KCAL_LITRO;
+    public BigDecimal getAutonomiaComparadoComGasoliona() {
+        return AUTONOMIA_COMPARADO_COM_GASOLINA;
     }
 
     public Gasolina(BigDecimal valor) {

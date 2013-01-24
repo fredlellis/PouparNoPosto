@@ -13,7 +13,7 @@ public abstract class Combustivel {
 
 
     private BigDecimal valor;
-    public abstract BigDecimal getPoderCalorificoSuperior();
+    public abstract BigDecimal getAutonomiaComparadoComGasoliona();
 
     public BigDecimal getValor() {
         return valor;
