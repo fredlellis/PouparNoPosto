@@ -21,7 +21,7 @@
                 android:text="@string/gasolina"
                 />
         <EditText android:id="@+id/valor_gasolina"
-                  android:numeric="integer|decimal"
+                  android:numeric="decimal"
                   android:inputType="numberDecimal"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
@@ -39,7 +39,7 @@
                 android:text="@string/etanol"
                 />
         <EditText android:id="@+id/valor_etanol"
-                  android:numeric="integer|decimal"
+                  android:numeric="decimal"
                   android:inputType="numberDecimal"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"

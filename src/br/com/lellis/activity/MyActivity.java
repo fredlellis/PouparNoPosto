@@ -6,11 +6,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
+import br.com.lellis.R;
 import br.com.lellis.calculo.ComparaRentabilidadeCombustivel;
 import br.com.lellis.entity.Combustivel;
 import br.com.lellis.entity.Etanol;
 import br.com.lellis.entity.Gasolina;
-import com.example.R;
+
 
 import java.math.BigDecimal;
 
