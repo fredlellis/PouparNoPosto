@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
+import br.com.lellis.entity.Combustivel;
 
 /**
  * Created with IntelliJ IDEA.
@@ -20,13 +21,13 @@ public class ResultadoDisplay extends Activity{
 
         // Get the message from the intent
         Intent intent = getIntent();
-        String message = intent.getStringExtra(MyActivity.RESULTADO_MESSAGE);
+        Combustivel resultado = (Combustivel) intent.getSerializableExtra(MyActivity.RESULTADO);
 
         // Create the text view
         TextView textView = new TextView(this);
         textView.setTextSize(40);
-        textView.setText(message);
-
+        textView.setText(resultado.toString());
+        textView.setTextColor(resultado.cor());
         // Set the text view as the activity layout
         setContentView(textView);
     }

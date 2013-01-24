@@ -1,5 +1,7 @@
 package br.com.lellis.entity;
 
+import android.graphics.Color;
+
 import java.math.BigDecimal;
 
 /**
@@ -22,6 +24,11 @@ public class Etanol extends BioCombustivel {
     @Override
     public BigDecimal getAutonomiaComparadoComGasoliona() {
         return AUTONOMIA_COMPARADO_COM_GASOLINA;
+    }
+
+    @Override
+    public int cor() {
+        return Color.GREEN;
     }
 
     @Override

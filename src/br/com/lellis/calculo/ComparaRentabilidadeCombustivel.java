@@ -26,8 +26,8 @@ public class ComparaRentabilidadeCombustivel {
         return new ComparaRentabilidadeCombustivel();
     }
 
-    public String compararDoisCombustiveis(Combustivel primeiroCombustivel, Combustivel segundoCombustivel){
-        return calcularCombustivelMaisRentavel(primeiroCombustivel, segundoCombustivel) < 1 ? primeiroCombustivel.toString() : segundoCombustivel.toString();
+    public Combustivel compararDoisCombustiveis(Combustivel primeiroCombustivel, Combustivel segundoCombustivel){
+        return calcularCombustivelMaisRentavel(primeiroCombustivel, segundoCombustivel) < 1 ? primeiroCombustivel : segundoCombustivel;
     }
 
 

@@ -6,6 +6,5 @@
     <string name="btn_calcular">Caluclar</string>
     <string name="hintEditTExt">Insira o valor</string>
     <string name="headerLabel">Insira o valor da gasolina e do alcool para saber qual mais em conta.</string>
-    <string name="resultadoLabel">Resultado:</string>
-    <string name="title_resultado_display_message">Resultado</string>
+    <string name="title_resultado_display_message">Combustível mais em conta</string>
 </resources>

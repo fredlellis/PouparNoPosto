@@ -1,6 +1,7 @@
 package br.com.lellis.activity;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -17,8 +18,9 @@ public class MyActivity extends Activity {
 
     public static final String COLOQUE_GASOLINA = "GASOLINA";
     public static final String COLOQUE_ETANOL = "ETANOL";
+    public static final String BLANK = "";
     private final BigDecimal DIFERENCA_POTENCIAL_ENERGETICO = new BigDecimal(0.7);
-    public final static String RESULTADO_MESSAGE = "com.example.myfirstapp.RESULTADO_MESSAGE";
+    public final static String RESULTADO = "com.example.myfirstapp.RESULTADO";
 
     /**
      * Called when the activity is first created.
@@ -36,18 +38,21 @@ public class MyActivity extends Activity {
         EditText ETValorGasolina = (EditText) findViewById(R.id.valor_gasolina);
         EditText ETValorEtanol = (EditText) findViewById(R.id.valor_etanol);
 
-        BigDecimal valorGasolina = new BigDecimal(ETValorGasolina.getText().toString());
-        BigDecimal valorEtanol = new BigDecimal(ETValorEtanol.getText().toString());
+        if (valoresPreenchidos(ETValorGasolina, ETValorEtanol)){
 
-        Combustivel gasolina = new Gasolina(valorGasolina);
-        Combustivel etanol = new Etanol(valorEtanol);
+            BigDecimal valorGasolina = new BigDecimal(ETValorGasolina.getText().toString());
+            BigDecimal valorEtanol = new BigDecimal(ETValorEtanol.getText().toString());
 
+            Combustivel gasolina = new Gasolina(valorGasolina);
+            Combustivel etanol = new Etanol(valorEtanol);
 
-        String resultado = ComparaRentabilidadeCombustivel.getInstance().compararDoisCombustiveis(gasolina, etanol);
+            resultadoDisplay.putExtra(RESULTADO, ComparaRentabilidadeCombustivel.getInstance().compararDoisCombustiveis(gasolina, etanol));
+            startActivity(resultadoDisplay);
+        }
+    }
 
-
-        resultadoDisplay.putExtra(RESULTADO_MESSAGE, resultado);
-        startActivity(resultadoDisplay);
+    private boolean valoresPreenchidos(EditText ETValorGasolina, EditText ETValorEtanol) {
+        return !(ETValorGasolina.getText().toString().equals(BLANK) && ETValorEtanol.getText().toString().equals(BLANK));
     }
 
 }

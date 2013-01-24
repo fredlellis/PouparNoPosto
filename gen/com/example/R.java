@@ -27,7 +27,6 @@ public final class R {
         public static final int gasolina=0x7f040001;
         public static final int headerLabel=0x7f040005;
         public static final int hintEditTExt=0x7f040004;
-        public static final int resultadoLabel=0x7f040006;
-        public static final int title_resultado_display_message=0x7f040007;
+        public static final int title_resultado_display_message=0x7f040006;
     }
 }

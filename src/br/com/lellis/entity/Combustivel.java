@@ -1,5 +1,6 @@
 package br.com.lellis.entity;
 
+import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
@@ -9,11 +10,12 @@ import java.math.BigDecimal;
  * Time: 17:36
  * To change this template use File | Settings | File Templates.
  */
-public abstract class Combustivel {
+public abstract class Combustivel implements Serializable{
 
 
     private BigDecimal valor;
     public abstract BigDecimal getAutonomiaComparadoComGasoliona();
+    public abstract int cor();
 
     public BigDecimal getValor() {
         return valor;

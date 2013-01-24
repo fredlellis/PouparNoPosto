@@ -1,5 +1,7 @@
 package br.com.lellis.entity;
 
+import android.graphics.Color;
+
 import java.math.BigDecimal;
 
 /**
@@ -16,6 +18,11 @@ public class Gasolina extends CombustivelFossil {
     @Override
     public BigDecimal getAutonomiaComparadoComGasoliona() {
         return AUTONOMIA_COMPARADO_COM_GASOLINA;
+    }
+
+    @Override
+    public int cor() {
+        return Color.RED;
     }
 
     public Gasolina(BigDecimal valor) {
