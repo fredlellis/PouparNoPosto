@@ -17,12 +17,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ed9adba-4668-48db-9c0a-fb70433aaa24" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk.unaligned" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk.unaligned" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br.com.lellis.PouparNoPosto.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.class" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Combustivel.class" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Combustivel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Etanol.class" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Etanol.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Gasolina.class" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/br/com/lellis/entity/Gasolina.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/classes.dex" afterPath="$PROJECT_DIR$/out/production/br.com.lellis.PouparNoPosto/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/tests/br/com/lellis/calculo/CalculoTest.class" afterPath="$PROJECT_DIR$/out/production/tests/br/com/lellis/calculo/CalculoTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/tests/classes.dex" afterPath="$PROJECT_DIR$/out/production/tests/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/tests/tests.apk.unaligned" afterPath="$PROJECT_DIR$/out/production/tests/tests.apk.unaligned" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/tests/tests.apk" afterPath="$PROJECT_DIR$/out/production/tests/tests.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java" afterPath="$PROJECT_DIR$/untitled/src/br/com/lellis/calculo/CalculoTest.java" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -640,7 +646,11 @@
       <created>1359033293323</created>
       <updated>1359033293323</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Versao 0.2 Beta Modificando as variaveis do calculo, agora e utilizado o conceito de autonomia do combustivel em relacao a gasolina">
+      <created>1359034427531</created>
+      <updated>1359034427531</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -712,7 +722,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versao 0.2 Beta (Com testes unitarios)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versao 0.2 Beta Modificando as variaveis do calculo, agora e utilizado o conceito de autonomia do combustivel em relacao a gasolina" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -728,6 +738,7 @@
     <MESSAGE value="fefefef" />
     <MESSAGE value="Versao 0.2 Beta" />
     <MESSAGE value="Versao 0.2 Beta (Com testes unitarios)" />
+    <MESSAGE value="Versao 0.2 Beta Modificando as variaveis do calculo, agora e utilizado o conceito de autonomia do combustivel em relacao a gasolina" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
