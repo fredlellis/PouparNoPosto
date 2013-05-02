@@ -3,9 +3,9 @@
     <string name="app_name">Poupar no posto</string>
     <string name="gasolina">Valor da Gasolina:</string>
     <string name="etanol">Valor do Etanol:</string>
-    <string name="btn_calcular">Caluclar</string>
+    <string name="btn_calcular">Calcular</string>
     <string name="hintEditTExt">Insira o valor</string>
-    <string name="headerLabel">Insira o valor da gasolina e do alcool para saber qual mais em conta.</string>
+    <string name="headerLabel">Insira o valor da gasolina e do etanol para saber qual mais em conta.</string>
     <string name="title_resultado_display_message">Combustível mais em conta</string>
     <string name="app_version_name">versão 1.0 Beta</string>
 </resources>
