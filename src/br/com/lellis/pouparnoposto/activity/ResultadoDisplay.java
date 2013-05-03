@@ -1,10 +1,11 @@
-package br.com.lellis.activity;
+package br.com.lellis.pouparnoposto.activity;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
-import br.com.lellis.entity.Combustivel;
+import br.com.lellis.pouparnoposto.entity.Combustivel;
+import br.com.lellis.pouparnoposto.entity.Combustivel;
 
 /**
  * Created with IntelliJ IDEA.

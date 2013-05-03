@@ -1,4 +1,4 @@
-package br.com.lellis.activity;
+package br.com.lellis.pouparnoposto.activity;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -7,10 +7,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import br.com.lellis.R;
-import br.com.lellis.calculo.ComparaRentabilidadeCombustivel;
-import br.com.lellis.entity.Combustivel;
-import br.com.lellis.entity.Etanol;
-import br.com.lellis.entity.Gasolina;
+import br.com.lellis.pouparnoposto.calculo.ComparaRentabilidadeCombustivel;
+import br.com.lellis.pouparnoposto.entity.Combustivel;
+import br.com.lellis.pouparnoposto.entity.Etanol;
+import br.com.lellis.pouparnoposto.entity.Gasolina;
+import br.com.lellis.pouparnoposto.entity.Combustivel;
 
 
 import java.math.BigDecimal;

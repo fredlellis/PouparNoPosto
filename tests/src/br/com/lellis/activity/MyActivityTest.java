@@ -1,7 +1,7 @@
 package com.example;
 
 import android.test.ActivityInstrumentationTestCase2;
-import br.com.lellis.activity.MyActivity;
+import br.com.lellis.pouparnoposto.activity.MyActivity;
 import dalvik.annotation.TestTarget;
 
 /**

@@ -1,4 +1,4 @@
-package br.com.lellis.entity;
+package br.com.lellis.pouparnoposto.entity;
 
 import android.graphics.Color;
 
@@ -8,18 +8,12 @@ import java.math.BigDecimal;
  * Created with IntelliJ IDEA.
  * User: y3wg
  * Date: 23/01/13
- * Time: 17:42
+ * Time: 17:39
  * To change this template use File | Settings | File Templates.
  */
-public class Etanol extends BioCombustivel {
+public class Gasolina extends CombustivelFossil {
 
-
-    private static final BigDecimal AUTONOMIA_COMPARADO_COM_GASOLINA = new BigDecimal(70);
-
-    public Etanol(BigDecimal valorEtanol) {
-        super();
-        setValor(valorEtanol);
-    }
+    private static final BigDecimal AUTONOMIA_COMPARADO_COM_GASOLINA = new BigDecimal(100);
 
     @Override
     public BigDecimal getAutonomiaComparadoComGasoliona() {
@@ -28,11 +22,16 @@ public class Etanol extends BioCombustivel {
 
     @Override
     public int cor() {
-        return Color.GREEN;
+        return Color.RED;
+    }
+
+    public Gasolina(BigDecimal valor) {
+        super();
+        setValor(valor);
     }
 
     @Override
     public String toString() {
-        return "ETANOL";
+        return "GASOLINA";
     }
 }

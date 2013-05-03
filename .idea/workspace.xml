@@ -16,31 +16,36 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ed9adba-4668-48db-9c0a-fb70433aaa24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/bomba.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/posto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\gen\com\example\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\gen\com\example\R.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\com\example\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\com\example\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\com\example\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\com\example\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\com\example\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\com\example\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\com\example\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\out\production\tests\com\example\tests\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Java\workspace\PouparNoPosto\tests\gen\com\example\tests\BuildConfig.java" afterPath="" />
+    <list id="9ed9adba-4668-48db-9c0a-fb70433aaa24" name="Default" comment="" />
+    <list default="true" id="c6651e84-e841-404d-b521-725b66689057" name="nao comitar" comment="">
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\activity\MyActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\activity\ResultadoDisplay.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\calculo\ComparaRentabilidadeCombustivel.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\entity\BioCombustivel.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\entity\Combustivel.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\entity\CombustivelFossil.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\entity\Etanol.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\br.com.lellis.PouparNoPosto\br\com\lellis\entity\Gasolina.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\tests\br\com\lellis\calculo\CalculoTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\tests\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\tests\com\example\MyActivityTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\tests\tests.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\tests\tests.apk.res" afterPath="" />
+      <change type="DELETED" beforePath="C:\Projetos\workspace\PouparNoPosto\out\production\tests\tests.apk.unaligned" afterPath="" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\activity\MyActivity.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/activity/MyActivity.java" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\activity\ResultadoDisplay.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/activity/ResultadoDisplay.java" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\calculo\ComparaRentabilidadeCombustivel.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/calculo/ComparaRentabilidadeCombustivel.java" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\entity\BioCombustivel.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/BioCombustivel.java" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\entity\Combustivel.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/Combustivel.java" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\entity\CombustivelFossil.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/CombustivelFossil.java" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\entity\Etanol.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/Etanol.java" />
+      <change type="MOVED" beforePath="C:\Projetos\workspace\PouparNoPosto\src\br\com\lellis\entity\Gasolina.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/Gasolina.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br.com.lellis.PouparNoPosto.iml" afterPath="$PROJECT_DIR$/br.com.lellis.PouparNoPosto.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java" afterPath="$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/AndroidManifest.xml" afterPath="$PROJECT_DIR$/tests/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/project.properties" afterPath="$PROJECT_DIR$/tests/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/tests.iml" afterPath="$PROJECT_DIR$/tests/tests.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/src/br/com/lellis/activity/MyActivityTest.java" afterPath="$PROJECT_DIR$/tests/src/br/com/lellis/activity/MyActivityTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/src/br/com/lellis/calculo/CalculoTest.java" afterPath="$PROJECT_DIR$/tests/src/br/com/lellis/calculo/CalculoTest.java" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,8 +115,8 @@
       <property name="field_breakpoints_groupByClasses" value="true" />
       <property name="method_breakpoints_groupByClasses" value="true" />
       <property name="exception_breakpoints_viewId" value="TABLE" />
-      <property name="exception_breakpoints_groupByClasses" value="true" />
       <property name="field_breakpoints_viewId" value="TABLE" />
+      <property name="exception_breakpoints_groupByClasses" value="true" />
       <property name="method_breakpoints_groupByMethods" value="false" />
     </ui_properties>
   </component>
@@ -119,7 +124,26 @@
     <favorites_list name="untitled" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="40" selection-start="860" selection-end="860" vertical-scroll-proportion="0.81869686">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="47" selection-start="561" selection-end="565" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -128,6 +152,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -141,12 +168,12 @@
         <option value="$PROJECT_DIR$/src/br/com/lellis/activity/ResultadoDisplay.java" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/values/style.xml" />
         <option value="$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java" />
         <option value="$PROJECT_DIR$/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/tests/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
@@ -186,6 +213,50 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PouparNoPosto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PouparNoPosto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PouparNoPosto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PouparNoPosto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PouparNoPosto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -200,40 +271,22 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PouparNoPosto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="152" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="OverrideImplement.combined" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="152" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="156" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="MemberChooser.sorted" value="false" />
+    <property name="ExportedApkPath" value="C:\Projetos\workspace\PouparNoPosto\br.com.lellis.PouparNoPosto.apk" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="156" />
+    <property name="ExportedModule" value="br.com.lellis.PouparNoPosto" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="152" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="830" />
@@ -243,24 +296,28 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_S" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="Downloaded.Files.Path" value="D:\Java\workspace\PouparNoPosto\lib" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/test/br/com/lellis" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="S7500cdee6f71" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="KeystoreLocation" value="C:\Users\y3wg\Documents\KeyStoreAndroid\chave" />
+    <property name="KeyAlias" value="key0" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -452,7 +509,7 @@
     </configuration>
     <configuration default="false" name="PouparNoPosto" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="br.com.lellis.PouparNoPosto" />
-      <option name="ACTIVITY_CLASS" value="br.com.lellis.activity.MyActivity" />
+      <option name="ACTIVITY_CLASS" value="br.com.lellis.pouparnoposto.activity.MyActivity" />
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
@@ -570,8 +627,9 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9ed9adba-4668-48db-9c0a-fb70433aaa24" name="Default" comment="" />
+      <changelist id="c6651e84-e841-404d-b521-725b66689057" name="nao comitar" comment="" />
       <created>1358956667516</created>
-      <updated>1358956667516</updated>
+      <updated>1367528226525</updated>
     </task>
     <task id="LOCAL-00001" summary="fefefef">
       <created>1358967072519</created>
@@ -605,19 +663,24 @@
       <created>1359036498243</created>
       <updated>1359036498243</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Tratando erros da versao 1.0&#10;">
+      <created>1367528215449</created>
+      <updated>1367528215449</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1368" height="723" extended-state="6" />
+    <frame x="-4" y="-4" width="1368" height="723" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3285968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TunnelliJ" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6701389" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285968" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39930555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -625,14 +688,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7517361" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954337" sideWeight="0.6701389" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2492378" sideWeight="0.6701389" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3940972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24923313" sideWeight="0.67140317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39253998" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -677,7 +740,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colocando cores e tratando campos vazios&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tratando erros da versao 1.0&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -696,6 +759,7 @@
     <MESSAGE value="Versao 0.2 Beta Modificando as variaveis do calculo, agora e utilizado o conceito de autonomia do combustivel em relacao a gasolina" />
     <MESSAGE value="rename na pasta de tests" />
     <MESSAGE value="Colocando cores e tratando campos vazios&#10;" />
+    <MESSAGE value="Tratando erros da versao 1.0&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -705,126 +769,84 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/CombustivelFossil.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/CombustivelFossil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="15" selection-start="197" selection-end="197" vertical-scroll-proportion="0.4722222">
-          <folding />
-        </state>
+        <state line="9" column="15" selection-start="197" selection-end="197" vertical-scroll-proportion="0.4722222" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/BioCombustivel.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/BioCombustivel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="50" selection-start="232" selection-end="232" vertical-scroll-proportion="0.4722222">
-          <folding />
-        </state>
+        <state line="9" column="50" selection-start="232" selection-end="232" vertical-scroll-proportion="0.4722222" />
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Android/platforms/android-12/android.jar!/android/app/AlertDialog.class">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/Etanol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="14" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="19" column="48" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Etanol.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/Gasolina.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="48" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="24" column="25" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Gasolina.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/entity/Combustivel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="12" column="57" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/entity/Combustivel.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/calculo/ComparaRentabilidadeCombustivel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="57" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/calculo/ComparaRentabilidadeCombustivel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="8" selection-start="750" selection-end="750" vertical-scroll-proportion="0.5260223">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/activity/ResultadoDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="17" selection-start="606" selection-end="606" vertical-scroll-proportion="0.4754991">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="29" column="8" selection-start="750" selection-end="750" vertical-scroll-proportion="0.5260223" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/src/br/com/lellis/calculo/CalculoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="57" selection-start="932" selection-end="932" vertical-scroll-proportion="0.7267658">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="27" column="57" selection-start="932" selection-end="932" vertical-scroll-proportion="0.7267658" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="0.14127424" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="59" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.8947368" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="73" selection-start="475" selection-end="475" vertical-scroll-proportion="0.5779037">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Android/platforms/android-12/android.jar!/java/math/BigDecimal.class">
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/activity/ResultadoDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="11" selection-start="1143" selection-end="1143" vertical-scroll-proportion="1.460481">
+        <state line="15" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="-0.203966">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/pouparnoposto/activity/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="55" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.75">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="39" selection-end="50" vertical-scroll-proportion="0.047091413">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="0.14127424">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="35" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.23545706">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/lellis/activity/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.29310346">
+        <state line="9" column="47" selection-start="561" selection-end="565" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="59" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.8947368">
+        <state line="17" column="40" selection-start="860" selection-end="860" vertical-scroll-proportion="0.81869686">
           <folding />
         </state>
       </provider>

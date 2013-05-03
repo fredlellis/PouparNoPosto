@@ -1,6 +1,6 @@
-package br.com.lellis.calculo;
+package br.com.lellis.pouparnoposto.calculo;
 
-import br.com.lellis.entity.Combustivel;
+import br.com.lellis.pouparnoposto.entity.Combustivel;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

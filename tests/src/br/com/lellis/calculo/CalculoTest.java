@@ -1,9 +1,10 @@
 package br.com.lellis.calculo;
 
 import android.test.AndroidTestCase;
-import br.com.lellis.entity.Combustivel;
-import br.com.lellis.entity.Etanol;
-import br.com.lellis.entity.Gasolina;
+import br.com.lellis.pouparnoposto.entity.Combustivel;
+import br.com.lellis.pouparnoposto.entity.Etanol;
+import br.com.lellis.pouparnoposto.entity.Gasolina;
+import br.com.lellis.pouparnoposto.calculo.ComparaRentabilidadeCombustivel;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
